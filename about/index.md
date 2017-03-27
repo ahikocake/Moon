@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About Me
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About
+tags: [about]
+date: 2017-03-27
 comments: false
 ---
 I started gaming when I was around 5 years old playing RPGs on the SNES. When I was 10, I played Phantasy Star Online (on dial-up!) and fell in love with MMORPGs ever since.
